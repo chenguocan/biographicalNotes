@@ -3,9 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="ebc2e5eb-cf74-4037-a991-f3bd2d6d897d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.cache/2d/1a752b07e2784ffef5a93ebb0fcbe8.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/2d/1a752b07e2784ffef5a93ebb0fcbe8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/98/1d32d53b72362d682b94777e3e2bec.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/98/1d32d53b72362d682b94777e3e2bec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/db/30a7db93401c7e76df8210e0ae7126.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/db/30a7db93401c7e76df8210e0ae7126.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.1f19ae8e.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.1f19ae8e.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +49,13 @@
       <workItem from="1601889421096" duration="204000" />
       <workItem from="1602027116822" duration="16000" />
       <workItem from="1602719271476" duration="165000" />
-      <workItem from="1602719790558" duration="813000" />
+      <workItem from="1602719790558" duration="896000" />
+      <workItem from="1602759110646" duration="814000" />
+      <workItem from="1602808381734" duration="401000" />
+      <workItem from="1602809589958" duration="135000" />
+      <workItem from="1602813913135" duration="90000" />
+      <workItem from="1602814133317" duration="36000" />
+      <workItem from="1602815232089" duration="654000" />
     </task>
     <servers />
   </component>
@@ -57,10 +66,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="737" y="143" key="FileChooserDialogImpl" timestamp="1602719434916">
+    <state x="737" y="143" key="FileChooserDialogImpl" timestamp="1602814167191">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="737" y="143" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602719434916" />
+    <state x="737" y="143" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602814167191" />
     <state x="459" y="47" key="SettingsEditor" timestamp="1601798277758">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
