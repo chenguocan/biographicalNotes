@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebc2e5eb-cf74-4037-a991-f3bd2d6d897d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.cache/2d/1a752b07e2784ffef5a93ebb0fcbe8.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/2d/1a752b07e2784ffef5a93ebb0fcbe8.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/98/1d32d53b72362d682b94777e3e2bec.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/98/1d32d53b72362d682b94777e3e2bec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/db/30a7db93401c7e76df8210e0ae7126.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/db/30a7db93401c7e76df8210e0ae7126.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.1f19ae8e.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.1f19ae8e.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +20,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JS面试" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
@@ -55,7 +48,9 @@
       <workItem from="1602809589958" duration="135000" />
       <workItem from="1602813913135" duration="90000" />
       <workItem from="1602814133317" duration="36000" />
-      <workItem from="1602815232089" duration="654000" />
+      <workItem from="1602815232089" duration="804000" />
+      <workItem from="1602816055075" duration="89000" />
+      <workItem from="1602942566346" duration="50000" />
     </task>
     <servers />
   </component>
@@ -66,10 +61,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="737" y="143" key="FileChooserDialogImpl" timestamp="1602814167191">
+    <state x="737" y="143" key="FileChooserDialogImpl" timestamp="1602942615221">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="737" y="143" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602814167191" />
+    <state x="737" y="143" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602942615221" />
     <state x="459" y="47" key="SettingsEditor" timestamp="1601798277758">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
