@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebc2e5eb-cf74-4037-a991-f3bd2d6d897d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.cache/2d/1a752b07e2784ffef5a93ebb0fcbe8.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/2d/1a752b07e2784ffef5a93ebb0fcbe8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/db/30a7db93401c7e76df8210e0ae7126.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/db/30a7db93401c7e76df8210e0ae7126.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +24,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JS面试" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
@@ -51,6 +55,7 @@
       <workItem from="1602815232089" duration="804000" />
       <workItem from="1602816055075" duration="89000" />
       <workItem from="1602942566346" duration="50000" />
+      <workItem from="1603501027626" duration="400000" />
     </task>
     <servers />
   </component>
